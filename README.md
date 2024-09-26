@@ -2,12 +2,12 @@
 
 ### ✨ &nbsp;**About me**
 - 🔭 &nbsp; Graduate student studying Computer Science at the University Of Southern California
-- 🌱 &nbsp; Expected graduation: December 2024
-- 💬 &nbsp; Worked as a SWE Intern at Adobe
+- 🎓 &nbsp; Expected graduation: December 2024
+- 🏢 &nbsp; Worked as a SWE Intern at Adobe
 - 👨‍💻 &nbsp; Worked as a Software Engineer at Tricon Infotech for 3 years
-- 👨‍💻 &nbsp; Worked as a Research Intern at National Institute Of Technology, Surathkal
+- 💻 &nbsp; Worked as a Research Intern at National Institute Of Technology, Surathkal
 
-### 🤹🏼  &nbsp; Skills
+### 🤹🏼  &nbsp; **Skills**
 - **Languages**: 
    <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-D22128?style=flat-square&logo=oracle&logoColor=white" />
@@ -40,8 +40,9 @@
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-ea2845?style=flat-square&logo=apachemaven&logoColor=white" />
   </p>
 
-### 🔗 &nbsp;**Connect with me**
+### 🔗 &nbsp; **Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/shetty-prathvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathviShetty" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11806393/prathvi-shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11806393" height="30" width="40" /></a>
 <a href="https://medium.com/@prathvi.shetty97" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+</p>
