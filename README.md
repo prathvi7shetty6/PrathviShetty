@@ -7,11 +7,11 @@
 - 👨‍💻 &nbsp; Worked as a Software Engineer at Tricon Infotech for 3 years
 - 👨‍💻 &nbsp; Worked as a Research Intern at National Institute Of Technology, Surathkal
 
-#### Skills
+### Skills
 - **Languages**: Java, C, SQL, Python, TypeScript
 - **Databses**: PostgreSQL, MySQL, Neo4j
 - **Framework & Libraries**: Spring, Angular, Hibernate ORM, Apache Camel
-- **Tools & Technologies**: AWS, Git, Docker, CI/CD, Databricks, MuleSoft, Spark, Maven
+- **Tools & Technologies**: AWS, Git, Docker, CI/CD, Databricks, MuleSoft, Spark, Maven, ![HTML5](https://img.shields.io/badge/databricks-black?logo=databricks)
 
 ### 🔗 &nbsp;**Connect with me**
 <p align="left">
