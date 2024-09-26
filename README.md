@@ -10,8 +10,8 @@
 ### Skills
 - **Languages**: 
    <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=oracle&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-8DD6F9?style=flat-square&logo=c&logoColor=white" /> 
+  <img alt="Java" src="https://img.shields.io/badge/-Java-D22128?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-225593?style=flat-square&logo=c&logoColor=white" /> 
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-46a2f1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1a73e8?style=flat-square&logo=typescript&logoColor=white" />
