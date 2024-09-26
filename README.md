@@ -11,7 +11,19 @@
 - **Languages**: Java, C, SQL, Python, TypeScript
 - **Databses**: PostgreSQL, MySQL, Neo4j
 - **Framework & Libraries**: Spring, Angular, Hibernate ORM, Apache Camel
-- **Tools & Technologies**: AWS, Git, Docker, CI/CD, Databricks, MuleSoft, Spark, Maven, ![HTML5](https://img.shields.io/badge/databricks-black?logo=databricks)
+- **Tools & Technologies**: ## Tools & Technologies
+
+<div align="center">
+    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+    ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=gitlab&logoColor=white) 
+    ![MuleSoft](https://img.shields.io/badge/MuleSoft-003A70?style=for-the-badge&logo=mulesoft&logoColor=white) 
+    ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) 
+    ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) 
+    ![Databricks](https://img.shields.io/badge/Databricks-black?logo=databricks)
+</div>
+
 
 ### 🔗 &nbsp;**Connect with me**
 <p align="left">
