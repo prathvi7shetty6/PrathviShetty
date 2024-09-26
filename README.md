@@ -7,6 +7,8 @@
 - 👨‍💻 &nbsp; Worked as a Software Engineer at Tricon Infotech for 3 years
 - 💻 &nbsp; Worked as a Research Intern at National Institute Of Technology, Surathkal
 
+  <br>
+
 ### 🤹🏼  &nbsp; **Skills**
 - **Languages**: 
    <p>
@@ -39,7 +41,7 @@
   <img alt="Spark" src="https://img.shields.io/badge/-Spark-F05032?style=flat-square&logo=apachespark&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-ea2845?style=flat-square&logo=apachemaven&logoColor=white" />
   </p>
-
+<br>
 ### 🔗 &nbsp; **Connect with me**
 <p align="center">
 <a href="https://www.linkedin.com/in/shetty-prathvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathviShetty" height="30" width="40" /></a>
