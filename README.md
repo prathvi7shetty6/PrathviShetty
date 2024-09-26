@@ -10,34 +10,34 @@
 ### Skills
 - **Languages**: 
    <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-8DD6F9?style=flat-square&logo=c&logoColor=white" /> 
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-46a2f1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1a73e8?style=flat-square&logo=typescript&logoColor=white" />
   </p>
 - **Databses**:
 - <p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-430098?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-764ABC?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-B7178C?style=flat-square&logo=neo4j&logoColor=white" />
   </p>
 - **Framework & Libraries**: Spring, Angular, Hibernate ORM, Apache Camel
   <p>
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="Hibernate ORM" src="https://img.shields.io/badge/-Hibernate-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Apache Camel" src="https://img.shields.io/badge/-Apache-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-CC6699?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-db7092?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Hibernate ORM" src="https://img.shields.io/badge/-Hibernate-F05032?style=flat-square&logo=hibernate&logoColor=white" />
+  <img alt="Apache Camel" src="https://img.shields.io/badge/-Apache-ea2845?style=flat-square&logo=apache&logoColor=white" />
   </p>
 - **Tools & Technologies**: <p> 
-  <img alt="AWS" src="https://img.shields.io/badge/-amazonwebservices-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-git-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-docker-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="CI/CD" src="https://img.shields.io/badge/-jenkins-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Databricks" src="https://img.shields.io/badge/-databricks-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Mulesoft" src="https://img.shields.io/badge/-mulesoft-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Spark" src="https://img.shields.io/badge/-apachespark-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Maven" src="https://img.shields.io/badge/-apachemaven-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FB542B?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-EC4A3F?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-F9A03C?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-F7B93E?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="Databricks" src="https://img.shields.io/badge/-Databricks-13aa52?style=flat-square&logo=databricks&logoColor=white" />
+  <img alt="Mulesoft" src="https://img.shields.io/badge/-Mulesoft-43853d?style=flat-square&logo=mulesoft&logoColor=white" />
+  <img alt="Spark" src="https://img.shields.io/badge/-Spark-F05032?style=flat-square&logo=apachespark&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/-Maven-ea2845?style=flat-square&logo=apachemaven&logoColor=white" />
   </p>
 
 ### 🔗 &nbsp;**Connect with me**
