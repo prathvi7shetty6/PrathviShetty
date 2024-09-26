@@ -7,7 +7,7 @@
 - 👨‍💻 &nbsp; Worked as a Software Engineer at Tricon Infotech for 3 years
 - 👨‍💻 &nbsp; Worked as a Research Intern at National Institute Of Technology, Surathkal
 
-### Skills
+### 🤹🏼  &nbsp; Skills
 - **Languages**: 
    <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-D22128?style=flat-square&logo=oracle&logoColor=white" />
